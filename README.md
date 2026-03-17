@@ -88,7 +88,7 @@ await sock.sendMessage(target, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/badzzne2", 
+        joinLink: "https://call.whatsapp.com/video/Razzxnotdev", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
@@ -125,7 +125,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @Raffioffci2 ",
+        footer: "telegram: @Razzxnotdev",
         buttons: [
             {
                 name: "cta_copy",
